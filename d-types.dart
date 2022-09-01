@@ -23,7 +23,7 @@ main() {
 
   print('$isOkay or $isNotOkay');
 
-  //dynamic
+  //dynamic types are determined at run time
 
   dynamic weakVariable = 100;
   print('weakVariebale $weakVariable');
